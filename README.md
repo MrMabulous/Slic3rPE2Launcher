@@ -5,3 +5,5 @@ To make Slic3r Prusa Edition 2.0 usable from within Repetier-Host 2.1.3, this li
 Has only been tested on Windows.
 
 To use it, simply place prusa-launcher.exe in the same directory as prusa-slicer.exe and prusa-slicer-console.exe, then point "Slic3r Executable" in Repetier-Host's Slicer Manager to prusa-launcher.exe.
+
+Slic3r Prusa Edition 2.0 release: https://github.com/prusa3d/PrusaSlicer/releases/tag/version_2.0.0
